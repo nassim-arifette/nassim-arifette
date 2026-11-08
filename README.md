@@ -73,12 +73,12 @@ DiffDock-L proposes ligand poses by reversing a diffusion. Can physical checks o
 ### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nassim-arifette&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3FA9D6&icon_color=3FA9D6&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassim-arifette&layout=compact&hide_border=true&bg_color=0d1117&title_color=3FA9D6&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+  <img src="assets/stats.svg" height="190" alt="GitHub stats" />
+  <img src="assets/languages.svg" height="190" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nassim-arifette&bg_color=0d1117&color=c9d1d9&line=3FA9D6&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution graph" />
+  <img src="assets/contributions.svg" width="95%" alt="Contribution graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:125A80,100:0f2027&height=100&section=footer" width="100%" alt="" />
